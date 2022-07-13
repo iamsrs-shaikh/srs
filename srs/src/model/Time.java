@@ -7,3 +7,4 @@ private void sysout() {
 int b=1;
 }
 }
+int y= 123322;
